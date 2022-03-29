@@ -5,6 +5,9 @@ app.get("/", function (req, res) {
     res.send("Hello World!!");
 });
 
+app.get("/home",function name(req,res) {
+    console.log("Welcome to home page");
+})
 
 
 
