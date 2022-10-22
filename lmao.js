@@ -10,4 +10,8 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
 // Path: app.js
 
+<<<<<<< HEAD
 //peepeepoopoo
+=======
+//i was here aaa
+>>>>>>> 9dcf5f3ecddaffa5b3f5743cf9b0dcecb5308bb6
